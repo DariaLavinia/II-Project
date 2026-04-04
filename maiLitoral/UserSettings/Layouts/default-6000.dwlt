@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1536
     height: 868.8
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Project
   m_RootView: {fileID: 7}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -74,7 +74,7 @@ MonoBehaviour:
   m_MinSize: {x: 400, y: 112}
   m_MaxSize: {x: 32384, y: 16192}
   vertical: 0
-  controlID: 37
+  controlID: 116
   draggingID: 0
 --- !u!114 &4
 MonoBehaviour:
@@ -250,7 +250,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 112}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 1
-  controlID: 38
+  controlID: 73
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -277,7 +277,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 56}
   m_MaxSize: {x: 24288, y: 8096}
   vertical: 0
-  controlID: 39
+  controlID: 49
   draggingID: 0
 --- !u!114 &12
 MonoBehaviour:
@@ -639,12 +639,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 101.20001}
     m_SelectedIDs:
-    - m_Data: 58044
+    - m_Data: 75312
     m_LastClickedID:
-      m_Data: 58044
+      m_Data: 75312
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 75210
+    - m_Data: 58284
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -677,7 +677,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 75210
+    - m_Data: 58284
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -704,8 +704,9 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs: []
-    m_LastClickedInstanceID: 0
+    m_SelectedInstanceIDs:
+    - m_Data: 75382
+    m_LastClickedInstanceID: 75382
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs:
     - m_Data: 75720
@@ -843,80 +844,8 @@ MonoBehaviour:
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -126108
-      - m_Data: -123542
-      - m_Data: -123168
-      - m_Data: -122562
-      - m_Data: -121356
-      - m_Data: -117864
-      - m_Data: -98538
-      - m_Data: -98392
-      - m_Data: -98246
-      - m_Data: -98244
-      - m_Data: -97276
-      - m_Data: -97024
-      - m_Data: -88846
-      - m_Data: -88698
-      - m_Data: -88550
-      - m_Data: -87162
-      - m_Data: -85036
-      - m_Data: -33198
-      - m_Data: -27872
-      - m_Data: -22564
-      - m_Data: -1970
-      - m_Data: 49806
-      - m_Data: 49836
-      - m_Data: 50140
-      - m_Data: 50398
-      - m_Data: 50454
-      - m_Data: 50866
-      - m_Data: 51002
-      - m_Data: 51142
-      - m_Data: 51158
-      - m_Data: 51212
-      - m_Data: 51394
-      - m_Data: 51454
-      - m_Data: 51502
-      - m_Data: 51818
-      - m_Data: 52262
-      - m_Data: 52300
-      - m_Data: 52398
-      - m_Data: 52760
-      - m_Data: 53068
-      - m_Data: 53288
-      - m_Data: 53326
-      - m_Data: 53436
-      - m_Data: 53894
-      - m_Data: 54008
-      - m_Data: 54026
-      - m_Data: 54292
-      - m_Data: 54604
-      - m_Data: 55182
-      - m_Data: 55400
-      - m_Data: 55440
-      - m_Data: 55560
-      - m_Data: 55628
-      - m_Data: 55762
-      - m_Data: 55864
-      - m_Data: 56000
-      - m_Data: 56096
-      - m_Data: 56104
-      - m_Data: 56304
-      - m_Data: 56652
-      - m_Data: 56846
-      - m_Data: 56918
-      - m_Data: 56998
-      - m_Data: 57110
-      - m_Data: 57160
-      - m_Data: 57276
-      - m_Data: 57284
-      - m_Data: 57300
-      - m_Data: 57378
-      - m_Data: 57408
-      - m_Data: 57416
-      - m_Data: 57444
-      - m_Data: 57494
-      - m_Data: 57666
+      - m_Data: -3244
+      - m_Data: -1756
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1553,7 +1482,7 @@ MonoBehaviour:
   m_Position:
     m_Target: {x: 770.41284, y: 1068.1244, z: 48.65223}
     speed: 2
-    m_Value: {x: 506.2398, y: 1667.8837, z: 52.03564}
+    m_Value: {x: 770.41284, y: 1068.1244, z: 48.65223}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1605,7 +1534,7 @@ MonoBehaviour:
   m_Size:
     m_Target: 872.802
     speed: 2
-    m_Value: 534.4575
+    m_Value: 872.802
   m_Ortho:
     m_Target: 1
     speed: 2

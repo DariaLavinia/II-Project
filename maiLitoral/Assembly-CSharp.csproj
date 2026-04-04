@@ -62,9 +62,11 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\SelectableCardUI.cs" />
     <Compile Include="Assets\Scripts\BeachSearchData.cs" />
+    <Compile Include="Assets\Scripts\BeachCalendarManager.cs" />
     <Compile Include="Assets\Scripts\MainContentSearchHandler.cs" />
     <Compile Include="Assets\Scripts\BeachManager.cs" />
     <Compile Include="Assets\Scripts\BeachCalendar.cs" />
+    <Compile Include="Assets\Scripts\CalendarDayUI.cs" />
     <Compile Include="Assets\Scripts\SearchBarScript.cs" />
     <Compile Include="Assets\Scripts\DayUI.cs" />
     <Compile Include="Assets\Scripts\BeachProperties.cs" />
